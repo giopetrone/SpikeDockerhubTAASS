@@ -1,11 +1,11 @@
 # Getting Started with Docker
 
-Official repo for Getting Started with Docker video training course by [@nigelpoulton](https://twitter.com/nigelpoulton)
+Modified the  Official repo for Getting Started with Docker video training course by [@nigelpoulton](https://twitter.com/nigelpoulton)
 
 ## first-container
 
 This folder contains the files to build a single-container web app (express, handlebars...)
-- Docker hub image: [nigelpoulton/gsd:first-ctr](https://hub.docker.com/repository/docker/nigelpoulton/gsd)
+- Docker hub image: [giopetrone111/gsd:first-ctr](https://hub.docker.com/repository/docker/nigelpoulton/gsd)
 
 ## multi-container
 
